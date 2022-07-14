@@ -1,0 +1,12 @@
+D:\Igor\Faks\Faks\4\2Semestar\WEB2\2022\projekat\proba\ProbniProjekat\EmailService\bin\Debug\net5.0\EmailService.deps.json
+D:\Igor\Faks\Faks\4\2Semestar\WEB2\2022\projekat\proba\ProbniProjekat\EmailService\bin\Debug\net5.0\EmailService.dll
+D:\Igor\Faks\Faks\4\2Semestar\WEB2\2022\projekat\proba\ProbniProjekat\EmailService\bin\Debug\net5.0\ref\EmailService.dll
+D:\Igor\Faks\Faks\4\2Semestar\WEB2\2022\projekat\proba\ProbniProjekat\EmailService\bin\Debug\net5.0\EmailService.pdb
+D:\Igor\Faks\Faks\4\2Semestar\WEB2\2022\projekat\proba\ProbniProjekat\EmailService\obj\Debug\net5.0\EmailService.csproj.AssemblyReference.cache
+D:\Igor\Faks\Faks\4\2Semestar\WEB2\2022\projekat\proba\ProbniProjekat\EmailService\obj\Debug\net5.0\EmailService.GeneratedMSBuildEditorConfig.editorconfig
+D:\Igor\Faks\Faks\4\2Semestar\WEB2\2022\projekat\proba\ProbniProjekat\EmailService\obj\Debug\net5.0\EmailService.AssemblyInfoInputs.cache
+D:\Igor\Faks\Faks\4\2Semestar\WEB2\2022\projekat\proba\ProbniProjekat\EmailService\obj\Debug\net5.0\EmailService.AssemblyInfo.cs
+D:\Igor\Faks\Faks\4\2Semestar\WEB2\2022\projekat\proba\ProbniProjekat\EmailService\obj\Debug\net5.0\EmailService.csproj.CoreCompileInputs.cache
+D:\Igor\Faks\Faks\4\2Semestar\WEB2\2022\projekat\proba\ProbniProjekat\EmailService\obj\Debug\net5.0\EmailService.dll
+D:\Igor\Faks\Faks\4\2Semestar\WEB2\2022\projekat\proba\ProbniProjekat\EmailService\obj\Debug\net5.0\ref\EmailService.dll
+D:\Igor\Faks\Faks\4\2Semestar\WEB2\2022\projekat\proba\ProbniProjekat\EmailService\obj\Debug\net5.0\EmailService.pdb
